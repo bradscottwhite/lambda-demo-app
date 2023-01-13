@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lambda-demo-app/static/css/main.68d092d6.css",
+    "main.js": "/lambda-demo-app/static/js/main.06410e3f.js",
+    "index.html": "/lambda-demo-app/index.html",
+    "main.68d092d6.css.map": "/lambda-demo-app/static/css/main.68d092d6.css.map",
+    "main.06410e3f.js.map": "/lambda-demo-app/static/js/main.06410e3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68d092d6.css",
+    "static/js/main.06410e3f.js"
+  ]
+}
